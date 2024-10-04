@@ -20,6 +20,4 @@ Este é um simples sistema de gerenciamento de conta bancária em Python. O prog
 
 JacksonPessoaS 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksonpessoas)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-pessoa-soares)
