@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='reset.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='mobile.css') }}">
+    <title>Meu Banco</title>
+</head>
+<body>
+    <div class="container">
+        <div class="box_login">
+            <h1 class="title">Meu Banco</h1>
+            <form method="POST">
+                <label for="opcao">Escolha uma opção:</label>
+                <select name="opcao" id="opcao" required>
+                    <option value="1">Depositar</option>
+                    <option value="2">Sacar</option>
+                    <option value="3">Extrato</option>
+                    <option value="4">Sair</option>
+                </select>
+                <label for="valor">Valor:</label>
+                <input type="number" name="valor" id="valor" step="0.01" required placeholder="Digite o valor">
+                <input type="submit" value="Executar">
+            </form>
+            <div class="mensagem">{{ mensagem }}</div>
+            <h2>Saldo: R$ {{ saldo }}</h2>
+        </div>
+    </div>
+</body>
+</html>
