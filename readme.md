@@ -66,13 +66,13 @@ Este é um simples sistema de gerenciamento de conta bancária em Python. O prog
 2. **Selecione uma operação**: O menu será exibido, e você deve inserir o número da operação desejada (1 para Depositar, 2 para Sacar, 3 para Extrato, 4 para Sair).
 3. **Insira os valores necessários**: Para as operações de depósito e saque, você será solicitado a inserir o valor desejado.
 4. **Consulte o extrato**: Você pode visualizar o extrato de suas movimentações a qualquer momento.
->>>>>>> 3b34c1ef475fd9d32459fa10e785fc54d71dd6d0
 
-## Criado por
+
+Criado por
 
 JacksonPessoaS 
 
-<<<<<<< HEAD
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksonpessoas)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-pessoa-soares)
@@ -81,4 +81,3 @@ JacksonPessoaS
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 =======
 
->>>>>>> 3b34c1ef475fd9d32459fa10e785fc54d71dd6d0
