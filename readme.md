@@ -30,7 +30,7 @@ Este é um simples sistema de gerenciamento de conta bancária em Python. O prog
 
 ## Como Usar
 
-<<<<<<< HEAD
+
 1. **Selecione uma operação**: O menu será exibido, e você deve inserir o número da operação desejada (1 para Depositar, 2 para Sacar, 3 para Extrato, 4 para Sair).
 2. **Insira os valores necessários**: Para as operações de depósito e saque, você será solicitado a inserir o valor desejado.
 3. **Consulte o extrato**: Você pode visualizar o extrato de suas movimentações a qualquer momento.
@@ -68,7 +68,7 @@ Este é um simples sistema de gerenciamento de conta bancária em Python. O prog
 4. **Consulte o extrato**: Você pode visualizar o extrato de suas movimentações a qualquer momento.
 
 
-Criado por
+## Criado por
 
 JacksonPessoaS 
 
@@ -79,5 +79,5 @@ JacksonPessoaS
 
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
-=======
+
 
